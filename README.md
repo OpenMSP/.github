@@ -2,9 +2,15 @@
  * @Author: gitsrc
  * @Date: 2022-04-21 10:58:39
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-21 11:27:37
+ * @LastEditTime: 2022-04-21 11:42:46
  * @FilePath: /openmsp_github/README.md
 -->
+
+<p align="center">
+<img 
+    src="./imgs/twitter_header_photo_1.png" width="80%" height="80%"
+    border="0" alt="RedTimeDB" />
+</p>
 
 ## OpenMSP is an open source organization dedicated to cloud-native construction.
 
