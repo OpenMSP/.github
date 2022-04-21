@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./imgs/twitter_header_photo_1.png" width="80%" height="80%"
+    src="./imgs/twitter_header_photo_1.png" width="100%"
     border="0" alt="RedTimeDB" />
 </p>
 
