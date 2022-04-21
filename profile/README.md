@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./imgs/facebook_cover_photo_1.png" width="100%"
+    src="./imgs/facebook_cover_photo_1.png" width="90%"
     border="0" alt="RedTimeDB" />
 </p>
 
