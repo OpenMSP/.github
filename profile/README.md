@@ -2,13 +2,13 @@
  * @Author: gitsrc
  * @Date: 2022-04-21 10:58:39
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-21 11:46:04
+ * @LastEditTime: 2022-04-21 11:44:00
  * @FilePath: /openmsp_github/profile/README.md
 -->
 
 <p align="center">
 <img 
-    src="./imgs/facebook_cover_photo_1.png width="100%"
+    src="./imgs/facebook_cover_photo_1.png" width="100%"
     border="0" alt="RedTimeDB" />
 </p>
 
