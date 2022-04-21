@@ -2,7 +2,7 @@
  * @Author: gitsrc
  * @Date: 2022-04-21 10:58:39
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-21 13:35:42
+ * @LastEditTime: 2022-04-21 13:37:22
  * @FilePath: /openmsp_github/profile/README.md
 -->
 
@@ -27,4 +27,4 @@ The cloud-native technology with containers as the core is a revolution in the d
 - **OpenMSP-ServiceCar** - The self-developed intelligent service grid SideCar infrastructure provides fast, complete and intelligent service governance functions.
 - **OpenMSP-Mananger** - OpenMSP cloud-native control brain provides cloud-native integrated infrastructure control capabilities.
 - **OpenMSP-Portal** - Advanced and user-friendly cloud-native platform visual control system.
-- **More....***
+- **More...**
