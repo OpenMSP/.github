@@ -2,7 +2,7 @@
  * @Author: gitsrc
  * @Date: 2022-04-21 10:58:39
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-21 11:58:18
+ * @LastEditTime: 2022-04-21 13:35:42
  * @FilePath: /openmsp_github/profile/README.md
 -->
 
@@ -21,7 +21,7 @@ In order to help enterprises quickly build full-link solutions from technical in
 
 The cloud-native technology with containers as the core is a revolution in the digitalization and intelligence of enterprises. Without cloud-native, there will be no real digitalization and intelligence. Cloud native technology has truly become a powerful engine for enterprise application innovation.
 
-### OpenMSP product composition [《OpenMSP White Paper》]()
+### OpenMSP product composition [《OpenMSP White Paper》](https://res.cloudinary.com/malloc/image/upload/v1650519332/github/openmsp/OpenMSP-WhitePaper_bqqpeb.pdf)
 
 - **OpenMSP-ContainerCloud** - The advanced container cloud platform supports single cluster, multi-cluster and heterogeneous workloads.
 - **OpenMSP-ServiceCar** - The self-developed intelligent service grid SideCar infrastructure provides fast, complete and intelligent service governance functions.
